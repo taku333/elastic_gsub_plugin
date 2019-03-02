@@ -1,7 +1,9 @@
 # elastic-gsub-plugin
 
 > UI for elasticsearch Gsub Processor
-![Sample image](docs/sample_image.jpg)
+
+![Sample image](doc/sample_image.jpg)
+
 ---
 
 ## How to use?
