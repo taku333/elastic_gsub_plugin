@@ -24,12 +24,13 @@ This Kibana plugin is the UI for [Gsub Processor](https://www.elastic.co/guide/e
 example: kibana 6.6.0.
 
 ```bash
-./bin/kibana-plugin install ./bin/kibana-plugin install https://github.com/taku333/elastic_gsub_plugin/releases/download/6.6.0/analyze-api-ui-plugin-6.6.0.zip
+./bin/kibana-plugin install ./bin/kibana-plugin install https://github.com/taku333/elastic_gsub_plugin/releases/download/6.6.0/elastic_gsub_plugin-6.6.0.zip
 ```
 
 The latest version is for kibana 6.6.0.
 
 | Kibana version | compatibility |
+| ---------- | ------- |
 | 6.6.1 |  &#10003; |
 | 6.6.0 |  &#10003; |
 | 6.5.4 |   |
