@@ -1,3 +1,8 @@
 {
-  "styleSheetToCompile": "public/app.scss"
+  "buildSourcePatterns": [
+    "package.json",
+    "index.js",
+    "{common,doc,public,server}/**/*",
+    "*.json"
+  ]
 }
