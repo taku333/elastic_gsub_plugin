@@ -2,3 +2,7 @@ npm-debug.log*
 node_modules
 /build/
 /public/app.css
+.idea
+*.iml
+.DS_store
+/yarn.lock
