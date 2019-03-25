@@ -31,6 +31,7 @@ The latest version is for kibana 6.6.0.
 
 | Kibana version | compatibility |
 | ---------- | ------- |
+| 6.6.2 |  &#10003; |
 | 6.6.1 |  &#10003; |
 | 6.6.0 |  &#10003; |
 | 6.5.4 |   |

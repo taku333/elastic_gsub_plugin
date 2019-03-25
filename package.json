@@ -4,7 +4,7 @@
   "description": "UI for elasticsearch Gsub Processor",
   "main": "index.js",
   "kibana": {
-    "version": "6.6.1",
+    "version": "6.6.2",
     "templateVersion": "1.0.0"
   },
   "scripts": {
